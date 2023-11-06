@@ -1,0 +1,196 @@
+{
+    "banner": {
+        "builder": true,
+        "no_selection":true,
+        "name": "Banner Section",
+        "content": {
+            "images":{
+                "hero_image":{
+                    "size":"470x470"
+                }
+        },
+        "top_heading": "text",
+        "heading": "text",
+        "subheading": "text",
+        "hero_btn":"text"
+
+       }
+    },
+    "testimonial": {
+        "builder": true,
+        "name": "Testimonial Section",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images":{
+                "testimonial_image":{
+                    "size":"60x60"
+                }
+        },
+            "name": "text",
+            "title": "text",
+            "rating": "text",
+            "description":"textarea",
+            "testimonial_icon":"icon",
+            "modal": true
+        }
+    },
+    "about": {
+        "builder": true,
+        "name": "About Us",
+        "content": {
+            "images":{
+                "about_image":{
+                    "size":"500x500",
+                    "thumb":"100x100"
+                }
+
+            },
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text",
+            "discount":"text",
+            "discount_month":"text",
+            "about_btn":"text"
+        }
+    },
+    "product": {
+        "builder": true,
+        "name": "Product Section",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "featured_product": {
+        "builder": true,
+        "name": "Featured Product",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "offer": {
+        "builder": true,
+        "name": "Offer Section",
+        "content": {
+            "heading": "text",
+            "discount":"text",
+            "discount_product":"text",
+            "offer_btn":"text"
+        }
+    },
+    "about_dark": {
+        "builder": false,
+        "name": "About Us Dark",
+        "content": {
+
+        }
+    },
+
+    "policy_pages": {
+        "builder": false,
+        "no_selection":true,
+        "name": "Policy Pages",
+        "element": {
+            "title": "text",
+            "details": "textarea-rich",
+            "modal": false
+        }
+    },
+    "faq": {
+        "builder": true,
+        "name": "FAQ Section",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "question": "text",
+            "answer": "textarea-rich",
+            "modal": false
+        }
+    },
+    "blog": {
+        "builder": true,
+        "name": "Blog Section",
+        "content": {
+            "top_heading": "text",
+            "heading": "text",
+            "subheading": "text"
+        },
+        "element": {
+            "images":{
+                "blog_image":{
+                    "size":"806x450",
+                    "thumb":"416x262"
+                }
+            },
+            "title": "text",
+            "description": "textarea-rich",
+            "modal": false
+        }
+    },
+    "subscribe": {
+        "builder": true,
+        "name": "Subscribe Section",
+        "content": {
+            "heading": "text",
+            "subheading": "text"
+        }
+    },
+    "social_icon": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Social Icons",
+        "element": {
+            "title": "text",
+            "social_icon": "icon",
+            "url": "text",
+            "modal": false
+        }
+    },
+    "contact_us": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Contact Us",
+        "content": {
+            "heading": "text",
+            "short_details": "text",
+            "email_address": "text",
+            "contact_details": "text",
+            "contact_number": "text",
+            "fax_number": "text",
+            "button": "text",
+            "website_footer": "textarea-rich",
+            "latitude":"text",
+            "longitude":"text"
+        }
+    },
+    "footer_important_links": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer - Important Links",
+        "element": {
+            "title": "text",
+            "url": "text",
+            "modal": true
+        }
+    },
+    "footer_company_links": {
+        "builder": true,
+        "no_selection": true,
+        "name": "Footer - Company Links",
+        "element": {
+            "title": "text",
+            "url": "text",
+            "modal": true
+        }
+    }
+}
